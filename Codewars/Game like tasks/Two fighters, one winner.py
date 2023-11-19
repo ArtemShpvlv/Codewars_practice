@@ -39,6 +39,3 @@ def declare_winner(fighter1, fighter2, first_attacker):
                 a = fighter2.name
                 break
     return a
-
-
-print(declare_winner(fighter1, fighter2, first_attacker))
